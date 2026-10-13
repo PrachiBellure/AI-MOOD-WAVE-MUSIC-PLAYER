@@ -53,7 +53,7 @@ This research project was presented at an IEEE International Conference and publ
 
 ##  Authors
 
-* **Prachi Bellure** (Lead / Developer)
+* **Prachi Bellure** 
 * **Dayand J**
 * **Prachi Kulkarni**
 * **Pratiksha**
