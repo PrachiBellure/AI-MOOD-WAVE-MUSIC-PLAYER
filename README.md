@@ -1,84 +1,73 @@
-AI Mood Wave Music Player 
+# AI Mood Wave Music Player
 
-Project Overview
+An AI-based music recommendation system that detects the user's mood from facial expressions and suggests suitable songs based on their emotional state.
 
-AI Mood Wave Music Player is an AI-based music recommendation system that detects the user's mood and suggests suitable songs based on their emotional state. The project aims to provide a personalized music experience by combining Artificial Intelligence and music recommendation techniques.
+##  Project Overview
+AI Mood Wave Music Player is an intelligent music recommendation system designed to understand user emotions and recommend songs according to the detected mood, creating a personalized and enjoyable listening experience.
 
-Objective
+##  Features
+* **Mood-Based Recommendation:** Automatically suggests songs tailored to the user's current emotional state.
+* **AI Emotion Detection:** Uses Computer Vision and Deep Learning for real-time facial expression analysis.
+* **Personalized Experience:** Bridges human-computer interaction with automated media delivery.
+* **Built-in Dataset:** Integrated music dataset for seamless track selection.
 
-The main objective of this project is to develop an intelligent music player that can understand user emotions and recommend songs according to the detected mood, creating a more personalized and enjoyable listening experience.
+##  Technologies Used
+* **Language:** Python
+* **Domains:** Artificial Intelligence, Machine Learning, Computer Vision, Deep Learning
+* **Libraries:** OpenCV, TensorFlow / Keras, NumPy, Pandas, Matplotlib
 
-Features
-
--  Mood-based music recommendation
--  AI-based emotion detection
--  Personalized song suggestions
--  User-friendly interface
--  Integrated music dataset
-
-Technologies Used
-
-- Python
-- Artificial Intelligence / Machine Learning
-- Computer Vision
-- OpenCV
-- Deep Learning
-- TensorFlow / Keras
-- NumPy
-- Pandas
-- Matplotlib
-
-Project Structure
-
-AI-Mood-Wave-Music-Player
-│
-├── Source_Code
+##  Project Structure
+```text
+AI-Mood-Wave-Music-Player/
+├── Source_Code/
 │   └── mini project.py
-│
 ├── README.md
-│
 └── requirements.txt
 
-How to Run the Project
+```
+
+##  How to Run the Project
 
 1. Clone this repository:
 
-git clone <repository-link>
+git clone [https://github.com/PrachiBellure/AI-MOOD-WAVE-MUSIC-PLAYER.git](https://github.com/PrachiBellure/AI-MOOD-WAVE-MUSIC-PLAYER.git)
 
 2. Install the required libraries:
 
 pip install -r requirements.txt
 
-3. Run the Python file:
+3. Run the Python script:
 
-python "mini project.py"
+python "Source_Code/mini project.py"
 
-Applications
 
-- Personalized music recommendation systems
-- Emotion-aware entertainment platforms
-- AI-based human-computer interaction
+##  Applications
 
-Project Publication
+* Personalized music streaming and recommendation platforms
+* Emotion-aware entertainment systems
+* Advanced human-computer interaction (HCI) applications
 
-This project was presented at an IEEE International Conference and published in an IEEE journal.
+##  Project Publication
 
-Authors
+This research project was presented at an IEEE International Conference and published in an IEEE journal.
 
-- Prachi Bellure
-- Dayand J
-- Prachi Kulkarni
-- Pratiksha
-- Vaishnavi
+##  Authors
 
-## My Contribution
+* **Prachi Bellure** (Lead / Developer)
+* **Dayand J**
+* **Prachi Kulkarni**
+* **Pratiksha**
+* **Vaishnavi**
 
-This was a team project. I was involved across the full project 
-lifecycle, including:
-- Coding and development
-- Documentation and report writing
-- Presentation (PPT) design and delivery
+##  My Contribution
 
-Acknowledgement
+As part of this team project, I contributed across the full project lifecycle, including:
 
-We thank our institution and project mentors for their guidance and support throughout the development of this project.
+* Core coding and software development
+* Technical documentation and report writing
+* Presentation (PPT) design and delivery
+
+##  Acknowledgement
+
+We extend our sincere gratitude to our institution and project mentors for their invaluable guidance and support throughout the development of this project.
+
